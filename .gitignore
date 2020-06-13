@@ -1,0 +1,15 @@
+/Toeic_Abstract/target
+/Toeic_Common/target
+/Toeic_Dao/target
+/Toeic_Dao_Impl/target
+/Toeic_DTO/target
+/Toeic_Persistence_Data/target
+/Toeic_Service/target
+/Toeic_Servie_Impl/target
+/Toeic_Test/Toeic_Test.iml
+/Toeic_Test/target
+/Toeic_Util/target
+/Toeic_Web/Toeic_Web.iml
+/Toeic_Web/target
+/Toeic_Web_Abstract/target
+/Toeic_Web_Controller/target
