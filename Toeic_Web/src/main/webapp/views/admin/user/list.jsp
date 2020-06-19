@@ -4,7 +4,9 @@
     <c:param name="urlType" value="edit"/>
 </c:url>
 <c:url var="listAfter" value="/admin-list-user.html">
-
+<c:url value="/admin-import-user.html" var="importUrl">
+    <c:param name="urlType" value="import"></c:param>
+</c:url>
 </c:url>
 <html>
 <head>

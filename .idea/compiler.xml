@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Toeic_Web_Controller" />
+        <module name="Toeic_DTO" />
+        <module name="Toeic_Servie_Impl" />
+        <module name="Toeic_Web_Abstract" />
+        <module name="Toeic_Test" />
+        <module name="Toeic_Persistence_Data" />
+        <module name="Toeic_Service" />
+        <module name="Toeic_Abstract" />
+        <module name="Toeic_Common" />
+        <module name="Toeic_Dao_Impl" />
+        <module name="Toeic_Util" />
+        <module name="Toeic_Dao" />
+        <module name="Toeic_Web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Toeic_Abstract" target="1.6" />
+      <module name="Toeic_Common" target="1.6" />
+      <module name="Toeic_Dao" target="1.6" />
+      <module name="Toeic_Dao_Impl" target="1.6" />
+      <module name="Toeic_DTO" target="1.6" />
+      <module name="Toeic_Online_2" target="1.6" />
+      <module name="Toeic_Persistence_Data" target="1.6" />
+      <module name="Toeic_Service" target="1.6" />
+      <module name="Toeic_Servie_Impl" target="1.6" />
+      <module name="Toeic_Test" target="1.6" />
+      <module name="Toeic_Util" target="1.6" />
+      <module name="Toeic_Web" target="1.6" />
+      <module name="Toeic_Web_Abstract" target="1.6" />
+      <module name="Toeic_Web_Controller" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

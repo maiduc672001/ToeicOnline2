@@ -19,4 +19,5 @@ public class WebConstant {
     public static final String SAVE="save";
     public static final String UPDATE="update";
     public static final String DELETE="delete";
+    public static final String IMPORT="import";
 }
